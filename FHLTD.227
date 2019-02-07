@@ -44,7 +44,7 @@
 <Transform dim="6"
  xcoef=" 0.0378746464318156 1.0081619887597 -0.021891705946757 0 0 0"
  ycoef=" 0.000292458085248304 0.0132164509415794 0.986712221313614 0 0 0">
-<Contour name="d01" hidden="false" closed="true" simplified="true" border="1 0.5 0" fill="1 0.5 0" mode="9"
+<Contour name="d01" hidden="true" closed="true" simplified="true" border="1 0.5 0" fill="1 0.5 0" mode="9"
  points="3.7559 5.59922,
 	3.84114 5.55128,
 	3.88376 5.51931,
@@ -114,7 +114,7 @@
 	3.78254 5.61521,
 	3.76123 5.60455,
 	"/>
-<Contour name="d01" hidden="false" closed="true" simplified="true" border="1 0.5 0" fill="1 0.5 0" mode="9"
+<Contour name="d01" hidden="true" closed="true" simplified="true" border="1 0.5 0" fill="1 0.5 0" mode="9"
  points="4.58699 4.87468,
 	4.61363 4.83739,
 	4.62961 4.81608,
@@ -235,7 +235,7 @@
 <Transform dim="6"
  xcoef=" 0.0378746464318156 1.0081619887597 -0.021891705946757 0 0 0"
  ycoef=" 0.000292458085248304 0.0132164509415794 0.986712221313614 0 0 0">
-<Contour name="d06" hidden="false" closed="true" simplified="true" border="0 0 1" fill="0 0 1" mode="9"
+<Contour name="d06" hidden="true" closed="true" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
  points="3.91745 6.97306,
 	3.93107 6.94921,
 	4.02645 6.86405,
@@ -259,7 +259,7 @@
 <Transform dim="6"
  xcoef=" 0.0378746464318156 1.0081619887597 -0.021891705946757 0 0 0"
  ycoef=" 0.000292458085248304 0.0132164509415794 0.986712221313614 0 0 0">
-<Contour name="d07" hidden="false" closed="true" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
+<Contour name="d07" hidden="true" closed="true" simplified="true" border="1 0 1" fill="1 0 1" mode="9"
  points="4.41189 8.04842,
 	4.43003 8.01214,
 	4.4391 7.97587,
@@ -470,7 +470,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="d06" hidden="false" closed="true" simplified="true" border="0 0 1" fill="0 0 1" mode="9"
+<Contour name="d06" hidden="true" closed="true" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
  points="2.9192 7.32446,
 	2.95179 7.26879,
 	2.95164 7.26189,

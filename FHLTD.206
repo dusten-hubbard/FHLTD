@@ -18,7 +18,7 @@
 <Transform dim="0"
  xcoef=" 0 1 0 0 0 0"
  ycoef=" 0 0 1 0 0 0">
-<Contour name="D04" hidden="true" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
+<Contour name="D04" hidden="false" closed="true" simplified="true" border="1 0 0" fill="1 0 0" mode="11"
  points="6.87045 7.74174,
 	6.87243 7.70218,
 	6.88002 7.66342,
@@ -62,7 +62,7 @@
 	6.89008 7.83842,
 	6.87809 7.80066,
 	"/>
-<Contour name="D05" hidden="true" closed="true" simplified="true" border="1 1 0" fill="1 1 0" mode="11"
+<Contour name="D05" hidden="false" closed="true" simplified="true" border="1 1 0" fill="1 1 0" mode="11"
  points="2.11607 3.57326,
 	2.12614 3.49974,
 	2.15854 3.43312,
@@ -159,23 +159,7 @@
 	4.24664 5.28809,
 	4.24054 5.25038,
 	"/>
-<Contour name="d02" hidden="true" closed="true" simplified="true" border="0.5 0 1" fill="0.5 0 1" mode="9"
- points="3.253 8.80467,
-	3.26768 8.78914,
-	3.29727 8.76957,
-	3.31203 8.75787,
-	3.34203 8.75746,
-	3.35021 8.78803,
-	3.33962 8.81884,
-	3.30719 8.88062,
-	3.29627 8.8961,
-	3.28119 8.89247,
-	3.26176 8.86206,
-	3.25359 8.8315,
-	3.25325 8.81617,
-	3.25309 8.8085,
-	"/>
-<Contour name="d03" hidden="true" closed="true" simplified="true" border="0 1 0" fill="0 1 0" mode="9"
+<Contour name="d03" hidden="false" closed="true" simplified="true" border="0 1 0" fill="0 1 0" mode="9"
  points="3.57454 2.13822,
 	3.58469 2.11889,
 	3.58738 2.08045,
@@ -243,7 +227,7 @@
 	3.57459 2.14062,
 	3.57457 2.13942,
 	"/>
-<Contour name="d03" hidden="true" closed="true" simplified="true" border="0 1 0" fill="0 1 0" mode="9"
+<Contour name="d03" hidden="false" closed="true" simplified="true" border="0 1 0" fill="0 1 0" mode="9"
  points="3.95674 2.62647,
 	3.96817 2.57504,
 	3.97702 2.54928,
@@ -275,7 +259,7 @@
 	3.95695 2.63609,
 	3.95681 2.62969,
 	"/>
-<Contour name="d03" hidden="true" closed="true" simplified="true" border="0 1 0" fill="0 1 0" mode="9"
+<Contour name="d03" hidden="false" closed="true" simplified="true" border="0 1 0" fill="0 1 0" mode="9"
  points="2.82286 1.98775,
 	2.82858 1.96202,
 	2.82844 1.95562,
@@ -325,7 +309,7 @@
 	2.82314 2.00057,
 	2.82293 1.99095,
 	"/>
-<Contour name="d03" hidden="true" closed="true" simplified="true" border="0 1 0" fill="0 1 0" mode="9"
+<Contour name="d03" hidden="false" closed="true" simplified="true" border="0 1 0" fill="0 1 0" mode="9"
  points="3.33877 1.76287,
 	3.36588 1.71122,
 	3.37815 1.69823,
@@ -348,7 +332,7 @@
 	3.33904 1.77568,
 	3.33884 1.76607,
 	"/>
-<Contour name="d06" hidden="true" closed="true" simplified="true" border="0 0 1" fill="0 0 1" mode="9"
+<Contour name="d06" hidden="true" closed="true" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
  points="2.29385 7.15677,
 	2.31013 7.12893,
 	2.33663 7.10442,
@@ -441,13 +425,13 @@
 	2.29452 7.18783,
 	2.29392 7.16022,
 	"/>
-<Contour name="d06p26" hidden="true" closed="true" simplified="false" border="0 0 1" fill="0 0 1" mode="-9"
+<Contour name="d06p26" hidden="false" closed="true" simplified="false" border="0 0 1" fill="0 0 1" mode="-9"
  points="2.66242 7.00491,
 	2.64482 6.98754,
 	2.66166 6.96971,
 	2.67927 6.98708,
 	"/>
-<Contour name="d07p35" hidden="true" closed="true" simplified="false" border="1 1 0" fill="1 1 0" mode="-13"
+<Contour name="d07p35" hidden="false" closed="true" simplified="false" border="1 1 0" fill="1 1 0" mode="-13"
  points="4.1983 8.13617,
 	4.19743 8.09595,
 	4.15806 8.09648,
@@ -459,7 +443,7 @@
 	4.15412 8.1418,
 	4.15894 8.1367,
 	"/>
-<Contour name="ax04" comment="LK bouton trace named after cfa" hidden="true" closed="true" simplified="true" border="0 1 1" fill="0.502 1 1" mode="9"
+<Contour name="ax04" comment="LK bouton trace named after cfa" hidden="false" closed="true" simplified="true" border="0 1 1" fill="0.502 1 1" mode="9"
  points="3.21887 4.70788,
 	3.22184 4.70313,
 	3.22244 4.70075,
@@ -540,7 +524,7 @@
 	3.21887 4.71264,
 	3.21887 4.70848,
 	"/>
-<Contour name="ax12" comment="LK bouton trace named after cfa" hidden="true" closed="true" simplified="true" border="0 1 1" fill="0.502 1 1" mode="9"
+<Contour name="ax12" comment="LK bouton trace named after cfa" hidden="false" closed="true" simplified="true" border="0 1 1" fill="0.502 1 1" mode="9"
  points="1.07408 2.28433,
 	1.07767 2.27717,
 	1.08394 2.27,
@@ -712,7 +696,7 @@
 	1.07408 2.28612,
 	1.07408 2.28523,
 	"/>
-<Contour name="ax13" comment="LK bouton trace named after cfa" hidden="true" closed="true" simplified="true" border="0 1 1" fill="0.502 1 1" mode="9"
+<Contour name="ax13" comment="LK bouton trace named after cfa" hidden="false" closed="true" simplified="true" border="0 1 1" fill="0.502 1 1" mode="9"
  points="4.53252 2.89195,
 	4.53447 2.88805,
 	4.53739 2.88415,
@@ -820,7 +804,7 @@
 	4.53252 2.89341,
 	4.53252 2.89243,
 	"/>
-<Contour name="ax14" comment="LK bouton trace named after cfa" hidden="true" closed="true" simplified="true" border="0 1 1" fill="0.502 1 1" mode="9"
+<Contour name="ax14" comment="LK bouton trace named after cfa" hidden="false" closed="true" simplified="true" border="0 1 1" fill="0.502 1 1" mode="9"
  points="2.58971 2.62005,
 	2.59463 2.61349,
 	2.59709 2.61021,
@@ -999,7 +983,7 @@
 	2.58971 2.62087,
 	2.58971 2.62046,
 	"/>
-<Contour name="d06" hidden="true" closed="true" simplified="true" border="0 0 1" fill="0 0 1" mode="9"
+<Contour name="d06" hidden="true" closed="true" simplified="true" border="0 0 1" fill="0 0 1" mode="11"
  points="2.50618 7.75464,
 	2.51602 7.74069,
 	2.54274 7.72653,
@@ -1043,7 +1027,7 @@
 	2.50633 7.76154,
 	2.50626 7.75809,
 	"/>
-<Contour name="d06cfa25ax17" hidden="true" closed="false" simplified="false" border="0 1 1" fill="0 1 1" mode="9"
+<Contour name="d06cfa25ax17" hidden="false" closed="false" simplified="false" border="0 1 1" fill="0 1 1" mode="11"
  points="2.64564 8.02464,
 	2.61809 7.93354,
 	2.57775 7.84263,
@@ -1186,13 +1170,13 @@
 	3.40102 8.39587,
 	3.40092 8.39127,
 	"/>
-<Contour name="d07p36" hidden="true" closed="true" simplified="false" border="0 0 1" fill="0 0 1" mode="-13"
+<Contour name="d07p36" hidden="false" closed="true" simplified="false" border="0 0 1" fill="0 0 1" mode="-13"
  points="4.27337 8.30619,
 	4.25577 8.28882,
 	4.27261 8.27099,
 	4.29022 8.28836,
 	"/>
-<Contour name="ax22" comment="LK bouton trace named after cfa" hidden="true" closed="true" simplified="true" border="0 1 1" fill="0.502 1 1" mode="9"
+<Contour name="ax22" comment="LK bouton trace named after cfa" hidden="false" closed="true" simplified="true" border="0 1 1" fill="0.502 1 1" mode="9"
  points="4.18389 8.75486,
 	4.19368 8.73529,
 	4.19673 8.71573,
@@ -1456,7 +1440,7 @@
 	4.18389 8.7567,
 	4.18389 8.75547,
 	"/>
-<Contour name="d06c25ax17" hidden="true" closed="true" simplified="true" border="0 1 0" fill="0 1 0" mode="9"
+<Contour name="d06c25ax17" hidden="false" closed="true" simplified="true" border="0 1 0" fill="0 1 0" mode="11"
  points="2.44882 7.8739,
 	2.54527 7.78499,
 	2.55732 7.77594,
@@ -1476,7 +1460,7 @@
 	2.45033 7.87691,
 	2.45033 7.8754,
 	"/>
-<Contour name="ax17" comment="LK bouton trace named after cfa" hidden="true" closed="true" simplified="true" border="0 1 1" fill="0.502 1 1" mode="9"
+<Contour name="ax17" comment="LK bouton trace named after cfa" hidden="false" closed="true" simplified="true" border="0 1 1" fill="0.502 1 1" mode="9"
  points="1.45493 9.69379,
 	1.46248 9.67653,
 	1.48028 9.64202,
